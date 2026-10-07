@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+    <Texture filename="pfjs.tex" />
+    <Elements>
+        <Element name="pfjs.tex" u1="0.001953125" u2="0.998046875" v1="0.001953125" v2="0.998046875" />
+    </Elements>
+</Atlas>
